@@ -6,3 +6,5 @@ And here we are now. All of this in under a year. I'm very proud of this. Just b
 this was all for a cracked version of Minecraft because no-one in my school was actually going to buy an account. So yeah.
 But its not our fault for Mojang for making it unsecure. But I don't blame him. It must've been hard
            Thank You     Sincerely - the Sana Client Devs
+
+Pls no hate tho
