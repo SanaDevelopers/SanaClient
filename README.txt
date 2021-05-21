@@ -1,4 +1,4 @@
-#SANACLIENT!!!
+# SANA CLIENT!!!
 When this first started, I wanted to make a Minecraft client that made that game run better for my friends at school so we could all be
 better than the plebs using normal Minecraft. It started with a command prompt launcher. 
 To straight up fps boosters, OptiFine, Ram unlocks, Anti-Cheat, Download pages, audio because the version everyone had didn't give u audio.
