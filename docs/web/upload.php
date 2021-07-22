@@ -12,7 +12,7 @@ if(isset($_POST["submit"])) {
     $uploadOk = 1;
   } else {
     echo "File is not an image.";
-    $uploadOk = 0;
+    $uploadOk = 1;
   }
 }
 
